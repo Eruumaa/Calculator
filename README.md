@@ -55,8 +55,8 @@ project/
 
 ## 👨‍💻 Developer
 
-**Aqil Mubarak**
-Computer Science Student
+**Aqil Mubarak** |
+Computer Science Student |
 Built with ❤️ using HTML, CSS, and JavaScript
 
 ---
