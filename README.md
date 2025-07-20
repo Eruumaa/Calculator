@@ -60,5 +60,3 @@ Computer Science Student |
 Built with ❤️ using HTML, CSS, and JavaScript
 
 ---
-
-Kalau kamu ingin file-nya langsung dalam bentuk `.txt` atau `.md`, aku bisa bantu generate juga. Mau aku buatkan file-nya?
