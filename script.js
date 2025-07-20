@@ -233,6 +233,5 @@ document.addEventListener("DOMContentLoaded", () => {
     updateDisplay(expression);
   });
 
-  // Display kosong di awal
   updateDisplay("");
 });
