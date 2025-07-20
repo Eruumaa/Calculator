@@ -40,6 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function formatResult(value) {
     const number = Number(value);
     if (isNaN(number)) return "Error";
+    if (number === 0) return "0";
     if (Math.abs(number) >= 1e15 || Math.abs(number) < 1e-6) {
       return number.toExponential();
     }
