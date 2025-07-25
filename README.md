@@ -3,7 +3,8 @@
 A responsive, modern, and feature-rich calculator built using HTML, CSS, and JavaScript.
 Designed with a clean interface and extended functionality such as keyboard input, memory handling, continuous operation, percentage conversion, and bracket support.
 
-![Calculator Simulation](https://calculatorbyaqil.netlify.app/)
+[!Alt text](calculatorbyaqilsimulation/)](https://calculatorbyaqil.netlify.app/)
+
 ---
 
 ## 🔧 Features
